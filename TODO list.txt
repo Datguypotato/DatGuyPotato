@@ -1,0 +1,15 @@
+16/03
+load all assets x
+setup scene x
+ping pong object x
+click drop object x
+checking score (based on height) x
+
+17/03
+Setup start screen x
+inputfield + agree with term and conditions x
+
+18/03
+show score
+
+polishing
